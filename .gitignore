@@ -1,0 +1,9 @@
+build
+node_modules
+yarn.lock
+package-lock.json
+.vercel
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
